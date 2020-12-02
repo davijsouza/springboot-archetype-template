@@ -1,0 +1,1 @@
+# springboot-archetype-template
